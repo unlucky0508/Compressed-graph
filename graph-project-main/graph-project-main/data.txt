@@ -1,0 +1,14 @@
+10
+3 4 5 7
+0
+0
+2 10 2
+0
+0
+3 7 9 4
+0
+0
+0
+
+10 nodes
+nb edges, to which edges
